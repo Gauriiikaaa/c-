@@ -26,3 +26,4 @@ int main(){
     obje.add(12,15);
     return 0;
 }
+//i want to change the code i have a better solution 
