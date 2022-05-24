@@ -9,7 +9,7 @@ class name{
     };
 int main(){
     name obj1;
-    obj1.fullname="Gaurika Sawhney";
+    obj1.fullname="Gaurika";
     obj1.printname();
     return 0;
     }
